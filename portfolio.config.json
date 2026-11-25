@@ -1,0 +1,276 @@
+{
+  "identity": {
+    "name": "Inti S S S Venkata Sai Shanmukhamanikanta",
+    "barTitle": "INTI S S S VENKATA SAI SHANMUKHA MANIKANTA",
+    "terminalUser": "shannu",
+    "domain": "shannu.dev",
+    "tagline": "AI, software, ideas into reality.",
+    "github": "shanmukhamanikantainti-web",
+    "storagePrefix": "shannu"
+  },
+  "about": {
+    "bio": "I'm an Artificial Intelligence and Machine Learning engineering student who builds AI-powered applications, software products, and real-world solutions. From computer vision and intelligent systems to startups, automation, and web development, I enjoy turning ideas into functional products.",
+    "extra": "India · B.Tech Artificial Intelligence & Machine Learning · Class of 2028"
+  },
+  "links": [
+    {
+      "label": "Email",
+      "url": "mailto:YOUR_EMAIL"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/shanmukhamanikantainti-web"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://in.linkedin.com/in/inti-s-s-s-m-s-venkata-sai-a117b5361"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/blackpeakstd/"
+    },
+    {
+      "label": "Resume",
+      "url": "YOUR_RESUME_URL"
+    }
+  ],
+  "work": [
+    {
+      "when": "2026",
+      "title": "Summer Intern & Trainee",
+      "org": "India Space Lab",
+      "where": "India",
+      "desc": "Participated in a summer internship and training program focused on space technology, learning, practical exposure, and technical exploration.",
+      "url": ""
+    },
+    {
+      "when": "2025 – 2026",
+      "title": "Design Co-Lead",
+      "org": "Vishnu Institute of Technology",
+      "where": "Bhimavaram, India",
+      "desc": "Led design-oriented initiatives, supported student activities, collaborated with teams, and contributed to creative execution and campus initiatives.",
+      "url": ""
+    },
+    {
+      "when": "2025 – Present",
+      "title": "Founder",
+      "org": "Black Peak Studio",
+      "where": "India",
+      "desc": "Co-founded a student-driven digital studio building websites, software, digital solutions, and technology-driven services. Focused on product development, design, client solutions, and building digital experiences.",
+      "url": ""
+    },
+    {
+      "when": "2026 – Present",
+      "title": "Department Organizer",
+      "org": "E-Cell · Innovit",
+      "where": "Vishnu Institute of Technology, India",
+      "desc": "Contributed to innovation, entrepreneurial initiatives, student engagement, and the organization of events and activities within the campus ecosystem.",
+      "url": ""
+    }
+  ],
+  "achievements": [
+    {
+      "title": "National AgriTech Hackathon 2026 — Winner",
+      "desc": "Recognized for an innovation in the AgriTech hackathon."
+    },
+    {
+      "title": "Spark Tank 3.0 — Winner",
+      "desc": "Won the institutional innovation competition."
+    },
+    {
+      "title": "DeepHack — Department-Level Winner",
+      "desc": "Won the department-level hackathon."
+    },
+    {
+      "title": "Team Mentor",
+      "desc": "Mentored two teams for a college-level competition."
+    },
+    {
+      "title": "Campus Innovation & Event Organization",
+      "desc": "Contributed to organizing student innovation initiatives and campus competitions."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Campus Eye",
+      "tag": "AI · Computer Vision · YOLO · OpenCV",
+      "desc": "An AI-powered campus surveillance system that transforms CCTV feeds into intelligent safety monitoring.",
+      "long": "Campus Eye is an AI-powered campus surveillance and safety monitoring system built using YOLO and OpenCV. It aims to enhance campus security by detecting potential safety violations and suspicious activities, including triple riding, ID card compliance, fighting, and other abnormal situations. The system explores real-time video analysis, automated detection, and intelligent surveillance to transform traditional CCTV infrastructure into a smarter campus safety solution.",
+      "githubRepo": "",
+      "shots": [],
+      "stack": [
+        "Python",
+        "YOLO",
+        "OpenCV",
+        "Computer Vision",
+        "AI"
+      ],
+      "url": "",
+      "links": [],
+      "more": false
+    },
+    {
+      "name": "MediCrew",
+      "tag": "IoT · Healthcare · AI · ESP32",
+      "desc": "A smart healthcare platform integrating IoT patient monitoring with intelligent hospital management.",
+      "long": "MediCrew is a healthcare technology platform designed to connect patient monitoring, hospital workflows, and intelligent digital experiences. Built around IoT-based monitoring using ESP32 and healthcare management interfaces, it explores patient vitals tracking, appointments, doctor and patient dashboards, and AI-assisted health insights. The project aims to bridge connected medical devices and digital healthcare management into a unified platform.",
+      "githubRepo": "",
+      "shots": [],
+      "stack": [
+        "IoT",
+        "ESP32",
+        "Firebase",
+        "AI",
+        "Web Development"
+      ],
+      "url": "",
+      "links": [],
+      "more": false
+    },
+    {
+      "name": "SeaBin",
+      "tag": "IoT · Sustainability · Embedded Systems",
+      "desc": "A solar-powered smart floating waste collector designed to tackle water pollution using IoT.",
+      "long": "SeaBin is a smart floating waste collection system concept focused on addressing water pollution through embedded systems and sustainable technology. The proposed solution integrates solar energy, ESP32, motors, water sensors, current monitoring, and camera-based intelligence to support waste collection and monitoring in water bodies. It explores autonomous operation, energy-efficient design, and IoT-based environmental monitoring to develop a practical approach to aquatic waste management.",
+      "githubRepo": "",
+      "shots": [],
+      "stack": [
+        "ESP32",
+        "IoT",
+        "Solar Energy",
+        "Sensors",
+        "OpenCV",
+        "AWS"
+      ],
+      "url": "",
+      "links": [],
+      "more": false
+    },
+    {
+      "name": "Decuise",
+      "tag": "Startup · Web Development · Product Design",
+      "desc": "Rethinking food delivery through a modern, intuitive, and product-focused digital experience.",
+      "long": "Decuise is a food delivery platform concept designed to build a modern food ordering experience beyond conventional delivery applications. It explores intuitive restaurant discovery, food browsing, digital ordering workflows, and consumer-focused product experiences. The project focuses on building a scalable digital product with a strong emphasis on user experience, modern interface design, and innovative food delivery interactions.",
+      "githubRepo": "",
+      "shots": [],
+      "stack": [
+        "React",
+        "Web Development",
+        "UI/UX",
+        "Product Design"
+      ],
+      "url": "",
+      "links": [],
+      "more": false
+    },
+    {
+      "name": "Black Peak Studio",
+      "tag": "Entrepreneurship · Software · Web",
+      "desc": "A digital studio building websites, software, and digital experiences for ideas and businesses.",
+      "long": "Black Peak Studio is a digital venture focused on turning ideas into digital products through web development, software solutions, design, and technology-driven services. It works across website development, digital experiences, and software-oriented solutions while exploring client collaboration, branding, product development, and entrepreneurship. The initiative represents an effort to build real-world solutions, collaborate with clients, and transform technical skills into practical digital services.",
+      "githubRepo": "",
+      "shots": [],
+      "stack": [
+        "React",
+        "Vite",
+        "Firebase",
+        "Web Development",
+        "UI/UX"
+      ],
+      "url": "",
+      "links": [],
+      "more": false
+    },
+    {
+      "name": "NXT-BILLS",
+      "tag": "Desktop Software · Business Management",
+      "desc": "An offline business billing and inventory management application built for practical business workflows.",
+      "long": "NXT-BILLS is a desktop business management application designed to simplify billing, accounting workflows, and inventory management for small businesses. It includes functionality for sales, purchases, invoices, inventory tracking, ledgers, debit and credit notes, and business reports. Designed with an offline-first approach, the application explores a practical alternative to cloud-dependent business management tools, with an emphasis on usability, reliability, and streamlined operations.",
+      "githubRepo": "",
+      "shots": [],
+      "stack": [
+        "JavaScript",
+        "Desktop Development",
+        "Database",
+        "Business Software"
+      ],
+      "url": "",
+      "links": [],
+      "more": false
+    },
+    {
+      "name": "Factory Safety Detection",
+      "tag": "AI · YOLOv8 · Computer Vision",
+      "desc": "An AI-powered industrial safety monitoring system for detecting PPE compliance in factory environments.",
+      "long": "Factory Safety Detection is a computer vision-based industrial safety monitoring system built using YOLOv8 and Python. It focuses on identifying personal protective equipment compliance, including helmet and safety vest usage, within industrial environments. The project explores automated safety monitoring, visual detection, real-time alerts, and potential integration with CCTV systems and edge computing devices to improve workplace safety awareness.",
+      "githubRepo": "",
+      "shots": [],
+      "stack": [
+        "Python",
+        "YOLOv8",
+        "OpenCV",
+        "Streamlit"
+      ],
+      "url": "",
+      "links": [],
+      "more": true
+    },
+    {
+      "name": "VIT Pulse / GatePulse",
+      "tag": "Web · Event Management · UI/UX",
+      "desc": "A digital event platform designed to streamline campus event discovery and engagement.",
+      "long": "GatePulse is a campus-focused event management platform concept designed to improve how students discover, explore, and engage with college events. It aims to create a centralized digital experience for event information, participation, and campus activities through a modern web interface. The project explores digital event discovery, accessible design, and streamlined student engagement.",
+      "githubRepo": "",
+      "shots": [],
+      "stack": [
+        "React",
+        "Vite",
+        "Web Development"
+      ],
+      "url": "",
+      "links": [],
+      "more": true
+    },
+    {
+      "name": "ORBIT API",
+      "tag": "AI · LLM Infrastructure · Developer Tools",
+      "desc": "A unified AI gateway exploring local language models and flexible AI-powered application integrations.",
+      "long": "ORBIT API is an AI infrastructure project exploring a unified gateway for integrating language models into applications and developer workflows. It focuses on simplifying AI interactions, experimenting with local models through Ollama, and creating a flexible API layer for assistant systems and AI-powered applications. The project aims to explore model interoperability, local AI infrastructure, and simplified integration of AI capabilities into software.",
+      "githubRepo": "",
+      "shots": [],
+      "stack": [
+        "Node.js",
+        "LLMs",
+        "API",
+        "Ollama"
+      ],
+      "url": "",
+      "links": [],
+      "more": true
+    }
+  ],
+  "talks": [],
+  "wallRepos": [],
+  "siteStack": [
+    {
+      "name": "Git",
+      "via": "version control"
+    },
+    {
+      "name": "GitHub",
+      "via": "code hosting & collaboration"
+    },
+    {
+      "name": "Linux",
+      "via": "development environment"
+    },
+    {
+      "name": "AWS",
+      "via": "cloud infrastructure"
+    },
+    {
+      "name": "UI/UX",
+      "via": "product design"
+    }
+  ]
+}
